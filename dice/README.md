@@ -1,0 +1,3 @@
+# Dice
+
+a dice contract
